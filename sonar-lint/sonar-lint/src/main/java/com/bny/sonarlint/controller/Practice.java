@@ -55,6 +55,8 @@ System.out.println("Iyyappan");
 
     private static void m(int x) {
         System.out.println("int version");
+
+        double d =0;
     }
 
     private static void m(char x) {
