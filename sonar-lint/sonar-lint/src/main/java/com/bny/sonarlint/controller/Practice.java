@@ -40,6 +40,8 @@ public class Practice {
 
 System.out.println("Hello");
 
+int a =9;
+
         
 
 
