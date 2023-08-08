@@ -39,9 +39,13 @@ public class Practice {
 
 
 System.out.println("Hello");
+<<<<<<< HEAD
 
 int a =9;
 
+=======
+System.out.println("Iyyappan");
+>>>>>>> d2d05fb964dd193e1b2ea7d8334e9ccc412a9e47
         
 
 
