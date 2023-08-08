@@ -9,7 +9,7 @@ public class DataController {
 
     @GetMapping
     public String getSum(@RequestParam("A") Integer a, @RequestParam("B") Integer b){
-
+     System.out.println("Aish");
      return "";
     }
 }
